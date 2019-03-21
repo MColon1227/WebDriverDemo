@@ -2,7 +2,7 @@
 using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox; 
 
-namespace WebDriverDemo
+namespace ExerciseMarisol
 {
     class Program
     {
